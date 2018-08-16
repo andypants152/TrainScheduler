@@ -1,11 +1,11 @@
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyArfz6NK8I6R2tLJ6mohHlim3W02A7dWHc",
-    authDomain: "train-scheduler-7058c.firebaseapp.com",
-    databaseURL: "https://train-scheduler-7058c.firebaseio.com",
-    projectId: "train-scheduler-7058c",
-    storageBucket: "train-scheduler-7058c.appspot.com",
-    messagingSenderId: "583595781029"
+    apiKey: "AIzaSyCxz9W5MEmyoCv5-ik3r-82RQ8n_kUdyW0",
+    authDomain: "bootcamp-prod.firebaseapp.com",
+    databaseURL: "https://bootcamp-prod.firebaseio.com",
+    projectId: "bootcamp-prod",
+    storageBucket: "bootcamp-prod.appspot.com",
+    messagingSenderId: "904953598925"
   };
   firebase.initializeApp(config);
 
